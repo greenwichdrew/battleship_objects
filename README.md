@@ -8,6 +8,7 @@
 
 ####Enemies  
 * players trying to sink each others ships      
+
 ####Begin play    
 * Players turns and players taking shots  
 
