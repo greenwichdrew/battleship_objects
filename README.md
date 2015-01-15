@@ -26,17 +26,27 @@
 ####Player Boards    
 * Player has board a and board b  
 
-####Enemy Boards
-* Enemy has board a and board b  
+##Class Ships
+###Methods
+####Ship position  
+* ship location  
+
+####Vessels  
+* Types of ships        
+
+####Safe    
+* Whether players ships are still afloat or have been sunk  
+
+####Damage
+* Missil hits and number of hits to sink vessels
 
 ##Class Player
 ###Methods
 ####Place ships  
-* determine ship location  
+* ship positioning  
 
 ####Fire shots  
-* Players firing missils at specific coordinates        
+* Fire Missils        
 
 ####Track shots    
-* Record player missil hits and misses
-* Record enemy missil hits and misses  
+* Record hits and misses for player and enemy  
