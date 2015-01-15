@@ -14,4 +14,16 @@
 ####Winner
 * Player with ships still floating  
 
-####Class Board
+##Class Board
+###Methods
+####Coordinates  
+* width & height  
+
+####Grid  
+* width x height        
+
+####Player Boards    
+* Player has board a and board b  
+
+####Enemy Boards
+* Enemy has board a and board b  
